@@ -21,4 +21,4 @@ This repository contains my personal CV/Resume website, built using pure HTML.
 ---
 
 ##Project Url
-
+cv.html
