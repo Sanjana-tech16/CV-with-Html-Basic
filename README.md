@@ -20,5 +20,5 @@ This repository contains my personal CV/Resume website, built using pure HTML.
 
 ---
 
-##Git Link:
-https://github.com/Sanjana-tech16/CV-with-Html-Basic
+##Project Url
+
