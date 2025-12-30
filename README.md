@@ -1,3 +1,5 @@
+https://roadmap.sh/projects/single-page-cv
+
 ## Personal CV Website – Sanjana Santhosh
 This repository contains my personal CV/Resume website, built using pure HTML.  
 
@@ -19,6 +21,3 @@ This repository contains my personal CV/Resume website, built using pure HTML.
 - Suitable for **internship & placement profiles**
 
 ---
-
-##Project Url
-cv.html
