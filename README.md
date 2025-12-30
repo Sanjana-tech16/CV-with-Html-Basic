@@ -19,3 +19,6 @@ This repository contains my personal CV/Resume website, built using pure HTML.
 - Suitable for **internship & placement profiles**
 
 ---
+
+##Git Link:
+https://github.com/Sanjana-tech16/CV-with-Html-Basic
